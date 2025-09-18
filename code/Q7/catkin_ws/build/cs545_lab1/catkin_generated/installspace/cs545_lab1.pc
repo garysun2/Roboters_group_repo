@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/install
+
+Name: cs545_lab1
+Description: Description of cs545_lab1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
